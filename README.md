@@ -1,16 +1,35 @@
-### Hi there 👋
 
-<!--
-**Szvejk/Szvejk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi👋
+I’m Sara Szwejkowska. I’m from Giżycko but I have lived in Gdańsk since 2 years.
+I’m interested in React since December 2021 year. It was fall in love from first sight :)
+I’m currently learning to write code in JS and I’m focused on creating as many projects as possible - because practice teaches us the most.
 
-Here are some ideas to get you started:
+I want to gain as much knowledge as possible, which is why I started my IT studies and regularly use the services of a mentor who watches over the quality of my code and the process of acquiring knowledge.✨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m looking to collaborate with company where I could develop myself under the supervision of specialists. I’m interested in intership 🙏🏻
+
+What can I do at the moment? 💬
+
+Git,
+the basics of JavaScript,
+HTML&CSS,
+SCSS,
+Bootstrap,
+Figma,
+Photoshop,
+SAP ERP,
+Agile/Scrum,
+ITIL4
+
+
+
+
+
+
+
+
+
+
+
+
+
