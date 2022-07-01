@@ -1,6 +1,6 @@
 
 Hi👋
-I’m Sara Szwejkowska. I’m from Giżycko but I have lived in Gdańsk since 2 years.
+I’m Sara Szwejkowska. I’m from Giżycko but I have lived in Gdańsk for 2 years.
 I’m interested in React since December 2021 year. It was fall in love from first sight :)
 I’m currently learning to write code in JS and I’m focused on creating as many projects as possible - because as we know - practice teaches us the most.
 
