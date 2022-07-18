@@ -6,7 +6,6 @@ I’m currently learning to write code in JS and I’m focused on creating as ma
 
 I want to gain as much knowledge as possible, which is why I started my IT studies and regularly use the services of a mentor who watches over the quality of my code and the process of acquiring knowledge.✨
 
-I’m looking to collaborate with company where I could develop myself under the supervision of specialists. I’m interested in intership 🙏🏻
 
 What can I do at the moment? 💬
 
@@ -16,10 +15,8 @@ HTML&CSS,
 SCSS,
 Bootstrap,
 Figma,
-Photoshop,
 SAP ERP,
-Agile/Scrum,
-ITIL4
+Agile/Scrum
 
 
 
